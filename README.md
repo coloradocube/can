@@ -1,4 +1,4 @@
-# can
+# CAN
 Controller Area Network materials
 
 ## Inventory
